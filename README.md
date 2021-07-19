@@ -21,6 +21,18 @@
 
 | COURSE CODE | COURSE NAME | DRIVE LINK                                                                                   |
 | ----------- | ----------- | :------------------------------------------------------------------------------------------: |
+| ENG205      | ADE         |                                                                                              |
+| GID147      | CAO         |                                                                                              |
+| CSC232      | DS          |                                                                                              |
+| CSC251      | DBMS-SQL    |                                                                                              |
+| GIN122      | EE          |                                                                                              |
+| ENG201      | HEM-I       |                                                                                              |
+| CSC256      | DBMS-NOSQL  |                                                                                              |
+| ENG207      | DM          |                                                                                              |
+| GEX207      | JAPANESE    |                                                                                              |
+| CSC250      | JAVA        |                                                                                              |
+| CSC254      | OS          |                                                                                              |
+
 
 
 ## Third Year
