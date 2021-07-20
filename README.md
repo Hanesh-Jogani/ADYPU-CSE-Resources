@@ -21,17 +21,17 @@
 
 | COURSE CODE | COURSE NAME | DRIVE LINK                                                                                   |
 | ----------- | ----------- | :------------------------------------------------------------------------------------------: |
-| ENG205      | ADE         |                                                                                              |
-| GID147      | CAO         |                                                                                              |
-| CSC232      | DS          |                                                                                              |
-| CSC251      | DBMS-SQL    |                                                                                              |
-| GIN122      | EE          |                                                                                              |
-| ENG201      | HEM-I       |                                                                                              |
-| CSC256      | DBMS-NOSQL  |                                                                                              |
-| ENG207      | DM          |                                                                                              |
-| GEX207      | JAPANESE    |                                                                                              |
-| CSC250      | JAVA        |                                                                                              |
-| CSC254      | OS          |                                                                                              |
+| ENG205      | ADE         | [Link](https://drive.google.com/drive/folders/1yR_yERkxYk3J1hR6APFubTHGMD0bwHit?usp=sharing) |
+| GID147      | CAO         | [Link](https://drive.google.com/drive/folders/1c11sB_ej1oNmtgWILlDIvExkyEo_IZDA?usp=sharing) |
+| CSC232      | DS          | [Link](https://drive.google.com/drive/folders/1P17ydjipeoftcoo1Far_MQW68liR0xPw?usp=sharing) |
+| CSC251      | DBMS-SQL    | [Link](https://drive.google.com/drive/folders/1-Ofu7fEYuHV8Sf6b53g0dEBK_LoQcgpU?usp=sharing) |
+| GIN122      | EE          | [Link](https://drive.google.com/drive/folders/1NFdv42xt7hU3s3lCCUqab4_uC8frl8X3?usp=sharing) |
+| ENG201      | HEM-I       | [Link](https://drive.google.com/drive/folders/1AYPfZ_lFd8XQwu4Ez_JAW3pvzac-O0BH?usp=sharing) |
+| CSC256      | DBMS-NOSQL  | [Link](https://drive.google.com/drive/folders/1HL2CAuGbXxJxrqel0777PQzSAS-pKYiz?usp=sharing) |
+| ENG207      | DM          | [Link](https://drive.google.com/drive/folders/1HL2CAuGbXxJxrqel0777PQzSAS-pKYiz?usp=sharing) |
+| GEX207      | JAPANESE    | [Link](https://drive.google.com/drive/folders/1wiFLb1qbEW8kEwCTf1hLXQyi0_6lkUIw?usp=sharing) |
+| CSC250      | JAVA        | [Link](https://drive.google.com/drive/folders/1z5xMUlTjR8-Pc1kQZDb_n6FRTf_sARoH?usp=sharing) |
+| CSC254      | OS          | [Link](https://drive.google.com/drive/folders/1AUWOA47MfsCi0SwjXthC-GWwTOxibpEn?usp=sharing) |
 
 
 
