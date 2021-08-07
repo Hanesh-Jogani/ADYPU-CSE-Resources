@@ -39,6 +39,18 @@
 
 | COURSE CODE | COURSE NAME | DRIVE LINK                                                                                   |
 | ----------- | ----------- | :------------------------------------------------------------------------------------------: |
+| CSC342      | CE          | _                                                                                            |
+| CSC381      | DM & ML     | _                                                                                            |
+| CSC333      | PYTHON      | _                                                                                            |
+| CSC332      | SE & DESIGN | _                                                                                            |
+| GID146      | MIS         | _                                                                                            |
+| GE          | MOOC        | _                                                                                            |
+| CSC346      | D&A OF ALGO | _                                                                                            |
+| MTE301      | MP & MC     | _                                                                                            |
+| CSC347      | IA WITH R   | _                                                                                            |
+| MTE309      | SOFT COMP   | _                                                                                            |
+| GLO120      | QUANTI APT  | _                                                                                            |
+| GIN171      | EI          | _                                                                                            |
 
 
 ## Fourth Year
