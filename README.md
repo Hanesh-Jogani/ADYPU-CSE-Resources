@@ -39,7 +39,7 @@
 
 | COURSE CODE | COURSE NAME | DRIVE LINK                                                                                   |
 | ----------- | ----------- | :------------------------------------------------------------------------------------------: |
-| CSC342      | CE          | _                                                                                            |
+| CSC342      | CN          | [Link](https://drive.google.com/drive/folders/1goxPVJqDW4S9nTqaUXBx-RiuZ4zD8Ru1?usp=sharing) |
 | CSC381      | DM & ML     | _                                                                                            |
 | CSC333      | PYTHON      | _                                                                                            |
 | CSC332      | SE & DESIGN | _                                                                                            |
