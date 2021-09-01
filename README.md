@@ -41,9 +41,9 @@
 | ----------- | ----------- | :------------------------------------------------------------------------------------------: |
 | CSC342      | CN          | [Link](https://drive.google.com/drive/folders/1goxPVJqDW4S9nTqaUXBx-RiuZ4zD8Ru1?usp=sharing) |
 | CSC381      | DM & ML     | _                                                                                            |
-| CSC333      | PYTHON      |[Link](https://drive.google.com/drive/folders/1yQDG3t-eYn3fGaS1toCu7cnhY5r7BmZg?usp=sharing) |
+| CSC333      | PYTHON      | [Link](https://drive.google.com/drive/folders/1yQDG3t-eYn3fGaS1toCu7cnhY5r7BmZg?usp=sharing) |
 | CSC332      | SE & DESIGN | _                                                                                            |
-| GID146      | MIS         | _                                                                                            |
+| GID146      | MIS         | [Link](https://drive.google.com/drive/folders/10zIsOLa6mm2VbKKCbxTfUfOxXoII3Blr?usp=sharing) |
 | GE          | MOOC        | _                                                                                            |
 | CSC346      | D&A OF ALGO | _                                                                                            |
 | MTE301      | MP & MC     | _                                                                                            |
