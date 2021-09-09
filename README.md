@@ -40,7 +40,7 @@
 | COURSE CODE | COURSE NAME | DRIVE LINK                                                                                   |
 | ----------- | ----------- | :------------------------------------------------------------------------------------------: |
 | CSC342      | CN          | [Link](https://drive.google.com/drive/folders/1goxPVJqDW4S9nTqaUXBx-RiuZ4zD8Ru1?usp=sharing) |
-| CSC381      | DM & ML     | _                                                                                            |
+| CSC381      | DM & ML     | [Link](https://drive.google.com/drive/folders/1CUO9LMY9HveZlvc-lndiLXGe3rNlijIm?usp=sharing) |
 | CSC333      | PYTHON      | [Link](https://drive.google.com/drive/folders/1yQDG3t-eYn3fGaS1toCu7cnhY5r7BmZg?usp=sharing) |
 | CSC332      | SE & DESIGN | _                                                                                            |
 | GID146      | MIS         | [Link](https://drive.google.com/drive/folders/10zIsOLa6mm2VbKKCbxTfUfOxXoII3Blr?usp=sharing) |
