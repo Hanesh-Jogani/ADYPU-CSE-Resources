@@ -40,13 +40,13 @@
 | COURSE CODE | COURSE NAME | DRIVE LINK                                                                                   |
 | ----------- | ----------- | :------------------------------------------------------------------------------------------: |
 | CSC342      | CN          | [Link](https://drive.google.com/drive/folders/1goxPVJqDW4S9nTqaUXBx-RiuZ4zD8Ru1?usp=sharing) |
-| CSC381      | DM & ML     | [Link](https://drive.google.com/drive/folders/1CUO9LMY9HveZlvc-lndiLXGe3rNlijIm?usp=sharing) |
+| CSC381      | DMML        | [Link](https://drive.google.com/drive/folders/1CUO9LMY9HveZlvc-lndiLXGe3rNlijIm?usp=sharing) |
 | CSC333      | PYTHON      | [Link](https://drive.google.com/drive/folders/1yQDG3t-eYn3fGaS1toCu7cnhY5r7BmZg?usp=sharing) |
 | CSC332      | SE & DESIGN | [Link](https://drive.google.com/drive/folders/1vDWyvO1lsEql34kvZ4Ho22enTcJc-S1G?usp=sharing) |
 | GID146      | MIS         | [Link](https://drive.google.com/drive/folders/10zIsOLa6mm2VbKKCbxTfUfOxXoII3Blr?usp=sharing) |
 | CSC346      | D&A OF ALGO | [Link](https://drive.google.com/drive/folders/18tLjalCRIeLVV-RicPI7_Z9RFUsjo138?usp=sharing) |
-| MTE301      | MP & MC     | [Link](https://drive.google.com/drive/folders/1VMTXf94NQDgT9w8FzftrUfTkNAAjO66Q?usp=sharing) |
-| CSC347      | IA WITH R   | [Link](https://drive.google.com/drive/folders/1RmLyPVYHIrfEg2EqnAVyedRJj5J3V9VA?usp=sharing) |
+| MTE301      | MPMC        | [Link](https://drive.google.com/drive/folders/1VMTXf94NQDgT9w8FzftrUfTkNAAjO66Q?usp=sharing) |
+| CSC347      | IAR         | [Link](https://drive.google.com/drive/folders/1RmLyPVYHIrfEg2EqnAVyedRJj5J3V9VA?usp=sharing) |
 | MTE309      | SOFT COMP   | [Link](https://drive.google.com/drive/folders/1-7zyhwTQdabP4qpBDW_6o0qGEYU6-kFG?usp=sharing) |
 | GLO120      | QUANTI APT  | [Link](https://drive.google.com/drive/folders/1ZFTR_EEG2LpHNWlD-Dk7zrut927u9qK2?usp=sharing) |
 | GIN171      | EI          | [Link](https://drive.google.com/drive/folders/1_hylQ1n8cyYIRo9-Wxw5S2HeuYtIWwV5?usp=sharing) |
@@ -54,9 +54,16 @@
 
 ## Fourth Year
 
-| COURSE CODE | COURSE NAME | DRIVE LINK                                                                                   |
-| ----------- | ----------- | :------------------------------------------------------------------------------------------: |
-|      -      |      -      |                                              -                                               |
+| COURSE CODE |   COURSE NAME  | DRIVE LINK                                                                                   |
+| ----------- | -------------- | :------------------------------------------------------------------------------------------: |
+| CSC419      | AI             |                                              -                                               |
+| CSC420      | INTRO TO IOT   |                                              -                                               |
+| ENG401      | PROJECT I      |                                              -                                               |
+| ENG402      | INTERNSHIP     |                                              -                                               |
+| CSC421      | INTRO TO CLOUD |                                              -                                               |
+| CSC422      | DEEP LEARNING  |                                              -                                               |
+| ENG405      | PROJECT II     |                                              -                                               |
+| CSC423      | NLP            |                                              -                                               |
 
 
 ## Disclaimer
